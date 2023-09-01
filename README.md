@@ -17,4 +17,4 @@ It was introduced at the Aquaphotomics Summer School at the [The 3rd European Aq
 ---
 
 ### Previous Course
-You might also look at the [course material]((https://github.com/bpollner/aquap2_courseMaterial)) provided for the [The 3rd Aquaphotomics Symposium](http://conference.aquaphotomics.com/) in Japan in December 2018.
+You might also look at the [course material]((https://github.com/bpollner/aquap2_courseMaterial)) provided for the [The 3rd Aquaphotomics Symposium](http://conference.aquaphotomics.com/) in Japan, December 2018.
