@@ -12,7 +12,7 @@ It was introduced at the Aquaphotomics Summer School at the [The 3rd European Aq
 
 ### Additional Files
 * Please also download the folder [`AdditionalFiles`](https://drive.google.com/drive/folders/1-GfbGGCTuo_fLOw9lbnr6byBMifuUM6q?usp=sharing) (from Google Drive).
-* It contains a presentation (in PPTX and PDF) with some key-elements of the graphics produced with the code of this course, and some scientific literature that you might consider.
+* It contains a presentation (in PPTX and PDF) with some key-elements of the graphics produced with the code of this course, and some scientific literature that you might consider reading.
 
 ---
 
