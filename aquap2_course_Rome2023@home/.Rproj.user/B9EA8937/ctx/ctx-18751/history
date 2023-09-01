@@ -1,0 +1,85 @@
+library(aquap2)
+genFolderStr()
+# to launch the aquap2 package
+library(aquap2)
+genFolderStr()
+install.packages("learnr")
+esl()
+esl()
+esl()
+sl <- exportSampleList()
+# to launch the aquap2 package
+library(aquap2)
+sl <- exportSampleList()
+sl
+sl <- exportSampleList()
+sl <- exportSampleList()
+sl
+printStdColnames()
+fd <- gfd(slType = "csv", trhLog = "ESPEC")
+fd <- gfd(ttl=F)
+fd <- gfd(slType = "csv", trhLog = "ESPEC")
+fd
+fd
+str(fd, max.level = 2)
+str(fd, max.level = 3)
+str(fd, max.level = 4)
+# import raw spectra and data from the temperature and humidity data logger
+fd <- gfd(slType = "csv", trhLog = "ESPEC", ttl=F)
+fd
+fd
+str(fd, max.level = 3)
+str(fd, max.level = 4)
+# create the necessary folder structure
+genFolderStr()
+?gfd
+# import raw spectra and data from the temperature and humidity data logger
+fd <- gfd(slType = "csv", trhLog = "ESPEC")
+# we can look at the dataset:
+fd
+str(fd, max.level = 3)
+str(fd, max.level = 4)
+# plot the spectra
+plot(fd, pg.fns="")
+# plot the spectra
+plot(fd, pg.where="")
+# now we focus on the first overtone only
+fd <- selectWls(fd, 1300, 1600)
+plot(fd, pg.where="")
+# import raw spectra and data from the temperature and humidity data logger
+fd <- gfd(slType = "csv", trhLog = "ESPEC")
+# plot the spectra
+plot(fd, pg.where="")
+# now we focus on the first overtone only
+fdCut <- selectWls(fd, 1300, 1600)
+plot(fdCut, pg.where="")
+?gdmm
+cu <- gdmm(ap=getap("ap1")
+cu <- gdmm(ap=getap("ap1"))
+cu <- gdmm(ap=getap("ap1.r"))
+cu <- gdmm(fd, ap=getap("ap1.r"))
+cu
+cu <- gdmm(fd, ap=getap("ap1.r"))
+ls()
+cu <- gdmm(fd)
+cube <- gdmm(fd, ap=getap("ap1.r"))
+cube
+cube <- gdmm(fd, ap=getap("ap1.r"))
+str(cube, max.level = 1)
+str(cube, max.level = 2)
+str(cube, max.level = 3)
+str(cube, max.level = 4)
+cube@.Data
+cube@.Data[[1]]
+cube@.Data[[1]]@.Data
+cube
+str(cube)
+cube[[1]]
+cube[1]
+str(cube)
+cube[1]@Dataset
+cube[[1]]
+cube[1]@Dataset
+str(cube)
+cube[[1]]
+cube[[1]]@dataset

@@ -1,0 +1,9 @@
+aa <- list(1, 2, 3, NULL, 4, 5)
+which(lapply(aa, is.null) == TRUE)
+
+
+bb <- list(1,2,3,4,5,NULL)
+which(lapply(bb, is.null) == TRUE)
+
+cc <- list(1,2,3,4,5,6)
+which(lapply(cc, is.null) == TRUE)
