@@ -8,7 +8,7 @@
 
 # fullData <- gfd(filetype = "tabDelim.txt", trhLog = F, slType = "xls", multiplyRows = F) # from " .txt" format with existing sample list 
 
-fullData <- gfd(getmd(expName = "LacAceNaClKCl"), filetype = "Pirouette.pir", trhLog = F, slType = NULL, multiplyRows = F) # from " .pir" format without sample list 
+fullData <- gfd(getmd(expName = "LacAceNaClKCl"), filetype = "Pirouette.pir", trhLog = FALSE, slType = NULL, multiplyRows = FALSE, ttl = FALSE) # from " .pir" format without sample list 
 
 
 
