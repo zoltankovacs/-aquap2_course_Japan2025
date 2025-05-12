@@ -9,7 +9,7 @@ This Aquaphotomics School is introduced during the [The 5th Aquaphotomics Intern
 * Download this repository by clicking [HERE](https://github.com/zoltankovacs/aquap2_course_Japan2025/archive/refs/heads/main.zip) or clone it to a local drive.
 * Unzip, open folder.
 * Start either the R-Studio project file (`!!Start.Rproj` in `aquap2_course_Japan2025@home`) or set the folder `aquap2_course_Japan2025@home` as R working directory. 
-* copy the file `externalFiles/TempCalib_XDS` into the settings-home directory. (see `?updateSettings` in aquap2) 
+* Copy the file `externalFiles/TempCalib_XDS` into the settings-home directory. (see `?updateSettings` in aquap2) 
 * Execute the code in the folder `aquap2_course_Japan2025@home/R-code`.
 
 ---
