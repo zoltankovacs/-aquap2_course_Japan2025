@@ -4,15 +4,15 @@ This is the demo data resp. the course material showcasing some of the functions
 This Aquaphotomics School is introduced during the [The 5th Aquaphotomics International Conference – The Way of Water & Light, The Path of Life –](https://www.aquaphotomics.com/conference/) in Kobe, Japan in 17 May 2025.
 
 ## Getting Started
-* Download this repository or clone it to a local drive. Do this by clicking the green button (towards top middle/right) that says `<>Code`, then click `Download ZIP`.
+* Install R project (https://www.r-project.org/) and R Studio (https://posit.co/download/rstudio-desktop/)
+* Install aquap2 (https://github.com/bpollner/aquap2)
+* [Download this repository] clicking 
+ [Here] (https://github.com/zoltankovacs/aquap2_course_Japan2025/archive/refs/heads/main.zip) or clone it to a local drive:
+* Do this by clicking the green button (towards top middle/right) that says `<>Code`, then click `Download ZIP`.
 * Unzip, open folder.
 * Start either the R-Studio project file (`!!Start.Rproj` in `aquap2_course_Japan2025@home`) or set the folder `aquap2_course_Japan2025@home` as R working directory. 
 * copy the file `externalFiles/TempCalib_XDS` into the settings-home directory. (see `?updateSettings` in aquap2) 
 * Execute the code in the folder `aquap2_course_Japan2025@home/R-code`.
-
-### Additional Files
-* Please also download the folder [`AdditionalFiles`](https://drive.google.com/drive/folders/1-GfbGGCTuo_fLOw9lbnr6byBMifuUM6q?usp=sharing) (from Google Drive).
-* It contains a presentation (in PPTX and PDF) with some key-elements of the graphics produced with the code of this course, and some scientific literature that you might consider reading.
 
 ---
 
