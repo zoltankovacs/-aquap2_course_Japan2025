@@ -1,5 +1,0 @@
-# to launch the aquap2 package
-library(aquap2)
-
-# we assume that we already did our experiment, and we already have the acquired spectra copied into the folder "rawdata"
-
