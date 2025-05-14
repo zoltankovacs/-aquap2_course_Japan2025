@@ -1,6 +1,3 @@
-
-# Copy the file "externalFiles/TempCalib_XDS" into the settings-home directory
-
 # Create a home folder for the experimental analyses 
 # In this created folder create an R-Studio project
 # Within this R-Studio project, launch the shared codes 
@@ -133,5 +130,4 @@ plot(cu7, pg.fns = "_byWater") # plot "classic" aquagram
 ### aqg.minus <- "20"
 ### aqg.mod <- "classic-diff"  
 cu8 <- gdmm(dataReduced)
-plot(cu8, pg.fns = "_byWater")  # plot "classic-difference" aquagram 
-
+plot(cu8, pg.fns = "_byWater")  # plot "classic-difference" aquagram
